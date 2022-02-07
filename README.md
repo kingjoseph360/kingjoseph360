@@ -1,4 +1,4 @@
-🧑‍💻Hi, I'm Jose! 👋
+🧑‍💻Hi, I'm Isidore! 👋
 ===================
 - 💻 Hi, I’m an aspiring web developer & programmer!
 - 👀 I’m interested in Front-End Web Development & Python.
