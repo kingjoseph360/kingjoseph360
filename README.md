@@ -4,7 +4,7 @@
 - 👀 I’m interested in Front-End Web Development & Python.
 - 🌱 I’m currently learning the basics: HTML & CSS.
 - 💞️ I’m looking to collaborate on personal portfolios.
-- 📫 You can reach me by email at jhernandez051505@gmail.com
+- 📫 You can reach me by email at jhernandezCS@hotmail.com
 
 <!---
 kingjoseph360/kingjoseph360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
