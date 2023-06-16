@@ -1,8 +1,8 @@
 🧑‍💻Hi, I'm Jose! 👋
 ===================
 - 💻 Hi, I’m an aspiring comp sci hs teacher, web developer & programmer!
-- 👀 I’m interested in Web Development & Java.
-- 🌱 I’m currently learning Web Design and Java OOP.
+- 👀 I’m interested in Web Development & Java language.
+- 🌱 I’m currently learning Web Design and Java.
 - 💞️ I’m looking to collaborate on personal & professional portfolios/websites.
 - 📫 You can reach me by email at jhernandezCS@hotmail.com
 
